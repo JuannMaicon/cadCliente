@@ -14,7 +14,7 @@ export default StyleSheet.create({
   },
   button: {
     marginTop: 20,
-    paddingVertical: 10,
+    paddingVertical: 10,//ttrtyryrtyrt
     borderRadius: 5, // Canto arredondado para botões
     width: '30%',
     marginLeft:'25%',
